@@ -1,0 +1,8 @@
+D:\Users\Sinel Nemsara\source\repos\Lab 4 Q2(1)\obj\Debug\Lab 4 Q2(1).csproj.AssemblyReference.cache
+D:\Users\Sinel Nemsara\source\repos\Lab 4 Q2(1)\obj\Debug\Lab 4 Q2(1).csproj.SuggestedBindingRedirects.cache
+D:\Users\Sinel Nemsara\source\repos\Lab 4 Q2(1)\obj\Debug\Lab 4 Q2(1).csproj.CoreCompileInputs.cache
+D:\Users\Sinel Nemsara\source\repos\Lab 4 Q2(1)\bin\Debug\Lab 4 Q2(1).exe.config
+D:\Users\Sinel Nemsara\source\repos\Lab 4 Q2(1)\bin\Debug\Lab 4 Q2(1).exe
+D:\Users\Sinel Nemsara\source\repos\Lab 4 Q2(1)\bin\Debug\Lab 4 Q2(1).pdb
+D:\Users\Sinel Nemsara\source\repos\Lab 4 Q2(1)\obj\Debug\Lab 4 Q2(1).exe
+D:\Users\Sinel Nemsara\source\repos\Lab 4 Q2(1)\obj\Debug\Lab 4 Q2(1).pdb
